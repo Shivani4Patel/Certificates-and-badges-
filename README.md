@@ -26,6 +26,7 @@ Welcome to my certifications and achievements section! Below is a list of certif
 ---
 
 ## 🎓 Google Cloud Badges
+[https://www.cloudskillsboost.google/public_profiles/20eff71b-df66-4bc3-87e4-bf0b132f04ed?qlcampaign=1p-EDUCR-35%3A%3AP7oKAtoqjzen00HW6RlEAA&_gl=1*10yhgle*_up*MQ..*_ga*Nzc1MTUxNzMyLjE3NDYyMTQwMTM.*_ga_2X30ZRBDSG*MTc0NjIxNDAxMi4xLjAuMTc0NjIxNDAxMi4wLjAuMA..]
 
 ### 1. **Analyze Sentiment with Natural Language API Skill Badge**
    - **Issued by:** Google Cloud
